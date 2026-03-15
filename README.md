@@ -187,6 +187,32 @@ The Streamlit dashboard provides real-time insights including:
 • Geographical fraud activity heatmap
 • Live transaction monitoring
 
+##  Dashboard Preview
+
+<<h3 align="center">Main Dashboard</h3>
+<p align="center">
+  <img src="dash.png" width="800">
+</p>
+
+<h3 align="center">Fraud Score Gauge</h3>
+<p align="center">
+  <img src="fraud%20score%20gauge.png" width="800">
+</p>
+
+<h3 align="center">Fraud Score Heatmap</h3>
+<p align="center">
+  <img src="fraud%20score%20heatmap.png" width="800">
+</p>
+
+<h3 align="center">Fraud Score Timeline</h3>
+<p align="center">
+  <img src="fraud%20score%20timeline.png" width="800">
+</p>
+
+<h3 align="center">Scatter Analysis</h3>
+<p align="center">
+  <img src="scatter%20analysis.png" width="800">
+</p>
 ---
 
 #  Future Enhancements
