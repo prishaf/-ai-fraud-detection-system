@@ -203,10 +203,3 @@ The Streamlit dashboard provides real-time insights including:
 #  Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
-
-
-4. Start API
-uvicorn api.api_server:app --reload
-
-5. Run dashboard
-streamlit run dashboard/dashboard.py  
